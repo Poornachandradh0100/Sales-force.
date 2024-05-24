@@ -52,4 +52,4 @@ html, body: These rules define the width and height of the entire webpage (html 
 
 #try: This rule styles the "Try for Free" button with a green background, white text color, and darker green background color when hovered over.
 
-Each CSS rule targets specific elements or groups of elements in the HTML document and defines their appearance, layout, and behavior on the webpage.
+Each CSS rule targets specific elements or groups of elements in the HTML document and defines their appearance, layout, and behavior on the webpage..
